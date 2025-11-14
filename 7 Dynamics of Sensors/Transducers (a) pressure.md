@@ -110,12 +110,15 @@ Effect of ambient conditions
 
 # Circuit Diagram in software
 
-
+<img width="1435" height="797" alt="image" src="https://github.com/user-attachments/assets/0f702cf1-d2fc-428c-9c25-7072347b252f" />
+<img width="1457" height="795" alt="image" src="https://github.com/user-attachments/assets/bf1bb4c2-c8f4-42ad-b39d-768380de108b" />
+<img width="1483" height="803" alt="image" src="https://github.com/user-attachments/assets/b557c10f-a62e-4b9a-8463-afab48f6f39f" />
 
 # Output Graph / Tabulation
 
-
-# Sample images
-
+![Untitled](https://github.com/user-attachments/assets/adf3ab9d-350b-4e5e-a06a-d324647c4928)
+![Untitled](https://github.com/user-attachments/assets/1d3da65d-9e30-45a3-91d9-e71b0d3ba21c)
+![Untitled](https://github.com/user-attachments/assets/92265b25-0b52-445c-bd1b-95ae26393f96)
 
 # Result
+![Uploading Untitled.jpg…]()
