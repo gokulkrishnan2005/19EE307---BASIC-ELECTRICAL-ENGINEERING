@@ -121,4 +121,5 @@ Effect of ambient conditions
 ![Untitled](https://github.com/user-attachments/assets/92265b25-0b52-445c-bd1b-95ae26393f96)
 
 # Result
-![Uploading Untitled.jpg…]()
+![Untitled](https://github.com/user-attachments/assets/cfcb97ea-059e-48d1-afdb-c678e9aca5fb)
+
