@@ -7,8 +7,11 @@
 <img width="703" height="394" alt="image" src="https://github.com/user-attachments/assets/c847728a-f236-4624-8770-39f8604ae0c8" />
 
 ## Circuit diagram in software
+<img width="582" height="271" alt="image" src="https://github.com/user-attachments/assets/c005a7f6-916e-4875-a9a9-fc713aa67252" />
+
 
 # Tabulation /Graph
+![Untitled](https://github.com/user-attachments/assets/86722e2b-e5d5-476e-86a7-b979809ec55d)
 
 
 # Sample images 
