@@ -1,5 +1,5 @@
-## Exp. No. 3
-**Date:**  
+## Exp. No. 3 DETERMINATION OF TRANSFORMER EQUIVALENT CIRCUIT
+**Date:**  25.8.2025
 
 ## LOAD TEST ON SINGLE-PHASE TRANSFORMER
 
@@ -18,10 +18,7 @@
 https://ems-iitr.vlabs.ac.in/exp/circuit-parameters-oc-test/index.html 
 
 # Tabulation /Graph
-
-
-# Sample images 
-
+![Untitled](https://github.com/user-attachments/assets/06315655-2d40-4009-bdfd-8405bf6d8dcc)
 
 # Result
-
+![Untitled](https://github.com/user-attachments/assets/25c1a6bc-932b-47cd-afec-6080779eb3dd)
