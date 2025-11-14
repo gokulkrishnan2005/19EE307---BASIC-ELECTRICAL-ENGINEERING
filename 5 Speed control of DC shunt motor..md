@@ -1,5 +1,5 @@
-## Exp. No. 5
-**Date:**  
+## Exp. No. 5 SPEED CONTROL OF DC SHUNT MOTOR
+**Date:**  22.09.2025
 
 ## Speed control of DC shunt motor.
 
@@ -22,8 +22,5 @@ To study the speed control of D.C. Shunt motor by armature control method. Draw 
 
 # Output Graph / Tabulation
 
-
-# Sample images
-
-
 # Result
+![Untitled](https://github.com/user-attachments/assets/5bcfed3f-b9d9-4650-9b63-911e0dec3064)
