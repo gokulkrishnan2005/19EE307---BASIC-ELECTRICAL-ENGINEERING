@@ -17,7 +17,7 @@ To perform the speed control test on slip ring induction motor by rotor resistan
 
 # Circuit Diagram in software
 
-![images](https://github.com/user-attachments/assets/01ed11bc-0e5b-4f95-81ae-47f18b2ac18e)
+<img width="1315" height="604" alt="connec" src="https://github.com/user-attachments/assets/138f4c5c-305f-487f-886b-0cf37b40aba7" />
 
 
 # Output Graph / Tabulation
