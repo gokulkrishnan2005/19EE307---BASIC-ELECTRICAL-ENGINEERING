@@ -1,5 +1,5 @@
 ## Exp. No. 7
-**Date:**  
+**Date:**  06.10.2025
 
 ## Dynamics of Sensors/Transducers (a) pressure 
 
