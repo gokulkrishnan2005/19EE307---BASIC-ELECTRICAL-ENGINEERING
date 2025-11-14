@@ -17,8 +17,5 @@ https://ebootathon.com/labs/beta/ec/MeasurementAndInstrumentation/exp5/index.htm
 ## Tabulation / Graph 
 <img width="801" height="350" alt="EX1" src="https://github.com/user-attachments/assets/e86e9fe5-25d1-473c-96d8-d44d264eab3c" />
 
-
-## Sample images 
-
-
 ## Result
+<img width="1080" height="265" alt="image" src="https://github.com/user-attachments/assets/e33ad8f5-61db-4515-97fa-16a7ca1d3941" />
