@@ -17,10 +17,12 @@ To study the speed control of D.C. Shunt motor by armature control method. Draw 
 
 
 # Circuit Diagram in software
+<img width="1296" height="728" alt="image" src="https://github.com/user-attachments/assets/e2844905-3fec-4a1b-945f-b902e47ca230" />
 
 
 
 # Output Graph / Tabulation
+![Untitled](https://github.com/user-attachments/assets/284d7e08-184b-4baf-95e1-32faa001fc93)
 
 # Result
 ![Untitled](https://github.com/user-attachments/assets/5bcfed3f-b9d9-4650-9b63-911e0dec3064)
