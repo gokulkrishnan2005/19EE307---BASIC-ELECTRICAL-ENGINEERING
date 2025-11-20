@@ -1,5 +1,5 @@
 ## Exp. No. 9
-**Date:**  
+**Date:**  27.10.2025
 
 ## Measurements of various electrical quantities using various sensors
 
