@@ -1,7 +1,7 @@
-## Exp. No. 6
-**Date:**  
+## Exp. No. 6 Speed Control of slip-ring Induction motor
 
-## Speed Control of slip-ring Induction motor
+**Date:**  29.09.2025
+
 
 ## link
 https://ems-iitr.vlabs.ac.in/exp/speed-control-slip-ring/index.html 
